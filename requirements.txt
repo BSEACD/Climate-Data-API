@@ -1,0 +1,9 @@
+# External Libraries required for the Climate Data API script
+requests
+numpy
+rasterio
+pandas
+geopandas
+python-dateutil
+shapely
+regex
