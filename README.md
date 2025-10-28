@@ -16,23 +16,3 @@ Upon receiving a user request, the API executes a series of actions, including:
 -  Return the requested dataset to the user in a clean, processed format suitable for immediate analysis and visualization. 
 
 Currently, the API is operational for downloading PRISM precipitation data in millimeters or inches, at both monthly and daily resolutions. 
-
-Python libraries required for external use:
-  - datetime
-  - requests
-  - numpy
-  - rasterio
-  - rasterio.mask
-  - os
-  - shutil
-  - traceback
-  - logging
-  - zipfile
-  - pandas
-  - geopandas
-  - time
-  - csv
-  - shapely
-  - sys
-  - regex
-  - dateutil.relativedelta
